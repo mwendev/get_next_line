@@ -6,13 +6,16 @@
 /*   By: mwen <mwen@student.42wolfsburg.de>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/22 00:35:50 by mwen              #+#    #+#             */
-/*   Updated: 2021/06/11 09:55:17 by mwen             ###   ########.fr       */
+/*   Updated: 2022/02/27 11:57:54 by mwen             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef GET_NEXT_LINE_BONUS_H
 
 # define GET_NEXT_LINE_BONUS_H
+
+# define BUFFER_SIZE	42
+
 # include <unistd.h>
 # include <stdlib.h>
 
