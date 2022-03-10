@@ -1,1 +1,9 @@
-A getline() remake
+# get_nxt_line
+
+## Info
+
+A getline() remake. Leakproofed.
+
+- Grade: 115/100
+- Keywords: Unix logic
+- Skills: Unix/ Rigor/ Algorithms & AI
