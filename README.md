@@ -2,7 +2,7 @@
 
 ## Info
 
-A getline() remake, supporting multiple-file read. Leakproofed.
+A getline() remake with read buffer dynamically allocated, supporting multiple-file read. Leakproofed.
 
 - Grade: 115/100
 - Keywords: Unix logic
